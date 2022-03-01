@@ -12,4 +12,4 @@ alert (admin);
 let first = 1000;
 let second = '108';
 let result = first + second;
-alert(result);
+alert(result);// ?
